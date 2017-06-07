@@ -1,0 +1,22 @@
+Tal y como lo veo la app tíene:
+
+Linear(principal){
+
+ ScrollView(
+
+    Linear ( editText  Button)
+
+    Linear (  Button TextView  )
+
+ )
+
+}
+
+Esto es para explicarte brevemente la estructura.
+
+No te puedo hacer los coomits porque tengo que hacerlo con un programa aparte por lo
+que te lo entregaré todo junto.
+
+
+13:25 me falta introducir: fecha, hora y numero.
+
